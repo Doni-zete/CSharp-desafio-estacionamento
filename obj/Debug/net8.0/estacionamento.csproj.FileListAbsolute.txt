@@ -1,0 +1,15 @@
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\bin\Debug\net8.0\estacionamento.exe
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\bin\Debug\net8.0\estacionamento.deps.json
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\bin\Debug\net8.0\estacionamento.runtimeconfig.json
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\bin\Debug\net8.0\estacionamento.dll
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\bin\Debug\net8.0\estacionamento.pdb
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\obj\Debug\net8.0\estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\obj\Debug\net8.0\estacionamento.AssemblyInfoInputs.cache
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\obj\Debug\net8.0\estacionamento.AssemblyInfo.cs
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\obj\Debug\net8.0\estacionamento.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\obj\Debug\net8.0\estacionamento.sourcelink.json
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\obj\Debug\net8.0\estacionamento.dll
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\obj\Debug\net8.0\refint\estacionamento.dll
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\obj\Debug\net8.0\estacionamento.pdb
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\obj\Debug\net8.0\estacionamento.genruntimeconfig.cache
+E:\FATEC\CURSOS\GITHUB\DIO-PROJETOS-C##\estacionamento\obj\Debug\net8.0\ref\estacionamento.dll
